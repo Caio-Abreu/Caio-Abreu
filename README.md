@@ -2,7 +2,6 @@
  <div>
   <a href=https://github.com/Caio-Abreu>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Abreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Abreu&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-React" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
